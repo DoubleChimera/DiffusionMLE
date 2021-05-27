@@ -87,7 +87,4 @@ The output includes the likelihood score `L`, an `estimates` array, where the *i
 B_sub, data_sub = sort_trajectories(K=2,T,B,data)
 ```
 
-A more detailed example can be found in [the examples directory](examples).  
-
-
-end
+A more detailed example can be found in [the examples directory](examples).
